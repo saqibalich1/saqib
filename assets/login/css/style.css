@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+body {
+  font-family: montserrat, arial, verdana;
+  box-sizing: border-box;
+}
+
+.login, .onLoggedIn {
+  background-color: #F8FAFC;
+  padding: 3%;
+  border-radius: 8px;
+  width: 350px;
+  margin: 7% auto;
+  text-align: center;
+}
+
+
+
+
+.form-group {
+  padding: 2%;
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}
